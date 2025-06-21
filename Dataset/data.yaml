@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 108
+names: ['Battery', 'Door', 'Eye-glass', 'Fridge', 'Keyboard', 'Microphone', 'Phone', 'Ruler', 'Screwdriver', 'Stapler', 'TV', 'Table', 'Wallet', 'Watch', 'aeroplane', 'backpack', 'banana', 'baseball bat', 'baseball glove', 'bear', 'bed', 'bench', 'bicycle', 'bird', 'boat', 'book', 'bottle', 'bowl', 'box', 'broccoli', 'bus', 'cake', 'calendar', 'camera', 'car', 'carrot', 'cat', 'chair', 'chocolate', 'clock', 'coin', 'controller', 'couch', 'cup', 'dog', 'donut', 'elephant', 'fire-extinguisher', 'flowerPot', 'fork', 'frisbee', 'giraffe', 'glass-tumbler', 'hammer', 'handbag', 'headphones', 'helmet', 'horse', 'hot dog', 'jars', 'key', 'kite', 'knife', 'lamp', 'laptop', 'lense', 'microwave', 'motorbike', 'mouse', 'multimeter', 'orange', 'oven', 'pen', 'pendrive', 'person', 'pizza', 'plate', 'printer', 'pushbutton', 'refrigerator', 'remote', 'router', 'sandwich', 'scissors', 'shoe', 'sink', 'skateboard', 'skis', 'snowboard', 'sofa', 'speaker', 'spoon', 'sports ball', 'stop sign', 'suitcase', 'teddy bear', 'tennis racket', 'tie', 'toilet', 'toothbrush', 'traffic light', 'train', 'truck', 'umbrella', 'vase', 'webcam', 'wine glass', 'zebra']
+
+roboflow:
+  workspace: testing-f6dvv
+  project: object_detection-0xfrc
+  version: 18
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/testing-f6dvv/object_detection-0xfrc/dataset/18
