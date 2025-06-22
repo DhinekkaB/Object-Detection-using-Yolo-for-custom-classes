@@ -290,9 +290,9 @@ pip install -r requirements.txt
 
 ### 🙋 Author
 
-Dhinekka B
-GitHub: @[DhinekkaB](https://github.com/DhinekkaB)
-LinkedIn: [Dhinekka B](https://www.linkedin.com/in/dhinekka-b-344509290/)
+- Dhinekka B
+- GitHub: @[DhinekkaB](https://github.com/DhinekkaB)
+- LinkedIn: [Dhinekka B](https://www.linkedin.com/in/dhinekka-b-344509290/)
 
 ---
 
