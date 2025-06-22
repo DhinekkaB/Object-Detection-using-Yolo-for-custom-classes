@@ -1,4 +1,4 @@
-# Object Detection using YOLOv8 - Internship Project
+# Object Detection using YOLOv8
 
 This repository contains the object detection work completed as part of my internship. It showcases training a YOLOv8 model on a **custom dataset** built with **Roboflow**, containing **non-COCO classes** and fine-tuned for high-accuracy detection.
 
@@ -290,8 +290,9 @@ pip install -r requirements.txt
 
 ### 🙋 Author
 
-Dhinekka B – Intern at CNDE Lab, IIT Madras
+Dhinekka B
 GitHub: @DhinekkaB(https://github.com/DhinekkaB)
+LinkedIn: Dhinekka B(https://www.linkedin.com/in/dhinekka-b-344509290/)
 
 ---
 
