@@ -302,7 +302,8 @@ pip install -r requirements.txt
 
 ---
 
-### You can view my infernce by clicking this or view through Inference folder
+### You can view my [infernce](https://github.com/DhinekkaB/Object-Detection-using-Yolo-for-custom-classes/tree/main/Inference) by clicking this or view through Inference folder
+
 ### 🙋 Author
 
 - Dhinekka B
