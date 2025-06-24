@@ -163,7 +163,10 @@ Google Colab offers several advantages that make it ideal for prototyping and tr
    drive.mount('/content/drive')
    ```
    then continue with train script execution
-
+### My colab
+<p align="center">
+  <img src="Images/Image4.png" width="400" height="250"/>
+</p>
 ---
 
 ## 🗂️ Folder Structure
