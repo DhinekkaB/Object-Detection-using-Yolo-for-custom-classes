@@ -35,7 +35,7 @@ For this project, I used **YOLOv8s**, the lightweight and fast variant, ideal fo
 
 ###  About My Work
 
-During the internship, I:
+During the work, I:
 
 - Created a custom dataset using **Roboflow**
 - Collected **non-COCO classes** (not used in YOLO pretraining)
