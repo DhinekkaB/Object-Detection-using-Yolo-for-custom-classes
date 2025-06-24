@@ -89,10 +89,11 @@ Roboflow is designed to simplify the end-to-end process of building high-quality
 
 ### My Roboflow
 <p align="center">
-  <img src="Images/Image3.png" width="250"/>
-  <img src="Images/Image1.png" width="250"/>
-  <img src="Images/Image2.png" width="250"/>
+  <img src="Images/Image3.png" width="300" height="200"/>
+  <img src="Images/Image1.png" width="300" height="200"/>
+  <img src="Images/Image2.png" width="300" height="200"/>
 </p>
+
 
 
 ---
