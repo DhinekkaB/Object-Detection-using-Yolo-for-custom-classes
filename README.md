@@ -194,7 +194,7 @@ Google Colab offers several advantages that make it ideal for prototyping and tr
 
 ```bash
 
-git clone https://github.com/SHOBOT-DEV/General_Object_Detection.git
+git clone https://github.com/DhinekkaB/Object-Detection-using-Yolo-for-custom-classes.git
 
 cd General_Object_Detection/ObjectDetection
 
